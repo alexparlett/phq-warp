@@ -346,6 +346,15 @@
               </actions>
             </cue>
 
+            <cue name="Move_Station_Conversation_Selected">
+              <conditions>
+                <event_conversation_next_section actor="$Boron_Mentor" section="move_station_selected"/>
+              </conditions>
+              <actions>
+                <debug_text text="event.param" />
+              </actions>
+            </cue>
+
             <cue name="Create_Boron_Tank_Room" instantiate="true">
               <conditions>
                 <event_object_changed_attention object="$HQ" attention="attention.nearby" />
