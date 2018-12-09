@@ -2,7 +2,8 @@
 <language>
     <page id="400101">
         <t id="201">Move the station</t>
-        <t id="202">Ah, now our teleportation is so advanced I can move the station using the anomaly.</t>
+        <t id="202">Ah, now our teleportation is so advanced I can move the station using the anomaly. I will need to send you away first though.</t>
         <t id="203">More...</t>
+        <t id="204">Back...</t>
     </page>
 </language>

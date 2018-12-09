@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="HS_PHQWarp" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" version="010" date="2018-03-12" lastupdate="1543856641" save="0" enabled="1">
+    <text language="7" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="33" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="34" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="39" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="44" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="49" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="55" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="81" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="82" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="86" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+    <text language="88" name="PHQ Teleport" description="Provides a way to move the PHQ to a new sector" author="Azalrion" />
+</content>
